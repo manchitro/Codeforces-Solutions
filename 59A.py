@@ -1,3 +1,5 @@
+#Problem link: https://codeforces.com/contest/59/problem/A
+#Status: Accepted
 word = input()
 upCount = 0
 loCount = 0

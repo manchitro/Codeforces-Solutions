@@ -1,3 +1,5 @@
+#Problem link: https://codeforces.com/contest/318/problem/A
+#Status: Accepted
 import math
 
 n, k = list(map(int, input().split(" ", 2)))

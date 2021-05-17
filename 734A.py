@@ -1,3 +1,5 @@
+#Problem link: https://codeforces.com/contest/734/problem/A
+#Status: Accepted
 n = int(input())
 str = input()
 acount = 0

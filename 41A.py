@@ -1,3 +1,5 @@
+#Problem link: https://codeforces.com/contest/41/problem/A
+#Status: Accepted
 s = input()
 t = input()
 t2 = s[::-1]

@@ -1,3 +1,5 @@
+#Problem link: https://codeforces.com/contest/791/problem/A
+#Status: Accepted
 a, b = input().split(" ", 2)
 a = int(a)
 b = int(b)

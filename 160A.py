@@ -1,3 +1,5 @@
+#Problem link: https://codeforces.com/contest/160/problem/A
+#Status: Accepted
 n = int(input())
 coins = list(map(int, input().split()))
 mine = 0

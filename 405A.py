@@ -1,3 +1,5 @@
+#Problem link: https://codeforces.com/contest/405/problem/A
+#Status: Accepted
 n = int(input())
 columns = list(map(int, input().split(" ", n)))
 tallestCol = 0

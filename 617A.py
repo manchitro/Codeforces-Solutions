@@ -1,3 +1,5 @@
+#Problem link: https://codeforces.com/contest/617/problem/A
+#Status: Accepted
 n = int(input())
 steps = 0
 while n != 0:

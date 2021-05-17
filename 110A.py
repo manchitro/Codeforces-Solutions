@@ -1,3 +1,5 @@
+#Problem link: https://codeforces.com/contest/110/problem/A
+#Status: Accepted
 n = input()
 fourCount = 0
 seventCount = 0

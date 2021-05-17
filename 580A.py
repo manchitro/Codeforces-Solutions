@@ -1,3 +1,5 @@
+#Problem link: https://codeforces.com/contest/580/problem/A
+#Status: Accepted
 n = int(input())
 array = list(map(int, input().split(" ", n)))
 lengths = []

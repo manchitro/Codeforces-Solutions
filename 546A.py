@@ -1,3 +1,5 @@
+#Problem link: https://codeforces.com/contest/546/problem/A
+#Status: Accepted
 bananaCost, hasMoney, numBananaWant = input().split(" ", 3)
 totalCost = 0
 

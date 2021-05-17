@@ -1,3 +1,5 @@
+#Problem link: https://codeforces.com/contest/116/problem/A
+#Status: Accepted
 numStops = int(input())
 array = []
 for i in range(numStops):

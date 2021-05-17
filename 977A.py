@@ -1,3 +1,5 @@
+#Problem link: https://codeforces.com/contest/977/problem/A
+#Status: Accepted
 n, k = input().split(" ", 2)
 n = int(n)
 k = int(k)
